@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif;
+}
+
+.nav-link:hover{
+    color: #C7C8B4 !important;
+}
+
+.btn{
+    background-color: #DC3545 !important;
+    color: white !important;
+}
+
+.main{
+    background-image: url("img/banner.jpeg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+}
+
+.main-text{
+    color: #800080 !important;
+}
+
+.btn:hover{
+    background-color: #BB2D3B !important;
+}
+
+.services-h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.col{
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+i.fa-solid{
+    font-size: 5rem !important;
+    width: 100% !important;
+}
+
+.portfolio{
+    background-color: #F8F9FA !important;
+}
+
+.portfolio img{
+    object-fit: cover !important;
+}
+
+#staff{
+    background-color: #F8F9FA !important;
+}
+
+.teammate-images{
+    border-radius: 50%;
+}
+
+.teammate-images img{
+    border-radius: 50%;
+}
+
+.contact{
+    background-image: url("img/map.jpeg");
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
